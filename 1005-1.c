@@ -1,3 +1,5 @@
+///윤년 판별기
+
 #include<stdio.h>
 
 int IsLeapYear(int y)
