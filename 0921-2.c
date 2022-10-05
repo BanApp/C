@@ -1,3 +1,5 @@
+///소수 판별기
+
 #include <stdio.h>
 
 int main()
