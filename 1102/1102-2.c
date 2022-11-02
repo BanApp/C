@@ -1,3 +1,5 @@
+////포인터를 이용해서 입력받은 문자열안에 입력받은 문자(ch) 찾기
+
 #include <stdio.h>
 #include <string.h>
 
