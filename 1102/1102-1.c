@@ -1,3 +1,5 @@
+//포인터를 이용해서 역순으로 문자열을 새롭게 만들기
+
 #include <stdio.h>
 #include <string.h>
 
