@@ -1,3 +1,5 @@
+//함수에서 포인터를 이용해서 배열을 전달
+
 #include <stdio.h>
 
 void getSmall(int *numA, int *numS, int n)
